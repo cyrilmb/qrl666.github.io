@@ -1,3 +1,27 @@
+body{
+  
+}
+
+h1{
+  
+}
+
+h4{
+  text-indent: 50px;
+  background: rgba(110, 127, 171, 0.5);
+}
+
 h5{
   float:right
+}
+
+
+.section{
+  border-top: 1px solid #666666;
+  padding: 8px;
+}
+
+.header{
+  text-align:center;
+   text-transform: uppercase
 }
