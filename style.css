@@ -3,7 +3,20 @@ body{
 }
 
 h1{
+  margin: 5px;
   
+}
+
+p2{
+  float:right
+}
+
+.contactinfo{
+  background-color: ;
+  width: 450px;
+  padding: 5px;
+  border: 3px ridge lightblue ;
+  margin: 5px;
 }
 
 h4{
@@ -24,4 +37,9 @@ h5{
 .header{
   text-align:center;
    text-transform: uppercase
+}
+
+.sectionDS{
+  background-image: url("https://www.deepsprings.edu/wp-content/uploads/cattle-drive-e1546895193406.jpg");
+  color:
 }
