@@ -3,8 +3,16 @@ body{
 }
 
 h1{
-  margin: 5px;
-  
+  margin: 8px;
+  text-shadow: 2px 2px lightgrey;
+}
+
+hr{
+  margin: 20px -16px;
+    margin-top: 20px;
+    margin-right: -16px;
+    margin-bottom: 20px;
+    margin-left: -16px;
 }
 
 p2{
@@ -12,10 +20,10 @@ p2{
 }
 
 .contactinfo{
-  background-color: ;
+  background-color: hsl(25,60%,70%); ;
   width: 450px;
   padding: 5px;
-  border: 3px ridge lightblue ;
+  border: 3px ridge grey ;
   margin: 5px;
 }
 
@@ -30,13 +38,18 @@ h5{
 
 
 .section{
-  border-top: 1px solid #666666;
+  background-color: ;
+  border-top: 1px groove #666666;
   padding: 8px;
+  background-image: linear-gradient(to bottom right, white, thistle);
 }
 
 .header{
   text-align:center;
-   text-transform: uppercase
+   text-transform: uppercase;
+  background-color: #504050;
+  color: lightgrey;
+  letter-spacing: 4px;
 }
 
 .sectionDS{
